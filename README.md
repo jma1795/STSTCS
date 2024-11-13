@@ -1,4 +1,5 @@
 #STAR TREK STARSHIP TACTICAL COMBAT SIMULATOR (STCS)
+
 ![STCS Logo](https://gaming.trekcore.com/starshiptactical/images/screent.jpg)
 
 ALL Credit goes to the original developers, I am simply not wanting this project to die where it was after the loss of Geocities:
