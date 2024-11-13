@@ -14,8 +14,8 @@ ALL Credit goes to the original developers, I am simply not wanting this project
 
 ## Important links
 
-- [STCS On Trekcore]([(https://gaming.trekcore.com/starshiptactical/index.html] "STCS On Trekcore")
-- [STCS Homepage]([https://www.slightlysilly.net/modules.php?name=ststcs] "STCS Homepage") **No Longer Active**
+- [STCS On Trekcore]((https://gaming.trekcore.com/starshiptactical/index.html "STCS On Trekcore")
+- [STCS Homepage](https://www.slightlysilly.net/modules.php?name=ststcs "STCS Homepage") **No Longer Active**
 
 ## Description from original Website
 
