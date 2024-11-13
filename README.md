@@ -1,4 +1,4 @@
-#STAR TREK STARSHIP TACTICAL COMBAT SIMULATOR (STCS)
+##STAR TREK STARSHIP TACTICAL COMBAT SIMULATOR (STCS)
 
 ![STCS Logo](https://gaming.trekcore.com/starshiptactical/images/screent.jpg)
 
